@@ -1,11 +1,15 @@
 {
-  "name": "griffindevrepo",
+  "name": "griffinDevRepo",
   "version": "1.0.0",
-  "description": "The codeReference Library",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aawni_K",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0"
+  }
 }

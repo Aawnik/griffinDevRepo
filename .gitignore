@@ -1,3 +1,7 @@
+# node_modules
+/workspaces/griffinDevRepo/backEnd/node_modules
+/workspaces/griffinDevRepo/frontEnd/node_modules
+
 # Logs
 logs
 *.log
